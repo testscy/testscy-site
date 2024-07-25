@@ -1,3 +1,0 @@
-# Sample Site
-
-HEllo world
